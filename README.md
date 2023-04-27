@@ -31,10 +31,10 @@ Dentre as característcas do projeto, os principais consistem em:
 
 ```bash
 # clonar repositório
-git clone https://github.com/lucasnatanmelo/Spring-Boot-e-JPA-Hibernate-PostgreSQL.git
+git clone https://github.com/lucasnatanmelo/Spring-Boot-e-JPA-Hibernate-MongoDB.git
 
 # acessar a pasta 
-cd Springboot-PostgreSQL
+cd Springboot-MongoDB
 
 # executar o projeto
 ./mvnw spring-boot:run
